@@ -3,6 +3,7 @@
     <macro name="CoreLibPath" value="C:/Projects/Product/TSBpm/Bin/Debug" />
     <macro name="KOTLIN_BUNDLED" value="D:/Programs/IntelliJ IDEA 2019.2.4/plugins/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="C:/Users/R.Bazarov/.m2/repository" />
-    <macro name="TsCoreBinPath" value="C:/Projects/Product/TSBpm/Bin/Debug" />
+    <macro name="TsConfigurationProjectPath" value="C:/Projects/7154/TSBpm/Src/Lib/Terrasoft.WebApp.Loader/Terrasoft.WebApp/Terrasoft.Configuration" />
+    <macro name="TsCoreBinPath" value="C:/Projects/7154/TSBpm/Bin/Debug" />
   </component>
 </application>
