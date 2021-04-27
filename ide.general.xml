@@ -13,5 +13,6 @@
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
+    <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
   </component>
 </application>
