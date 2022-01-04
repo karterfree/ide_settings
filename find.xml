@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ATF.Repository'" />
-    <option name="defaultScopeName" value="Project 'ATF.Repository'" />
-    <option name="SEARCH_SCOPE" value="Project 'ATF.Repository'" />
+    <option name="customScope" value="Project 'ATF.Repository.FW.UnitTests'" />
+    <option name="defaultScopeName" value="Project 'ATF.Repository.FW.UnitTests'" />
+    <option name="SEARCH_SCOPE" value="Project 'ATF.Repository.FW.UnitTests'" />
   </component>
 </application>
