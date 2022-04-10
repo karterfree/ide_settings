@@ -93,6 +93,8 @@
               <option value="StackExchange.Redis.RedisTimeoutException" />
               <option value="System.IO.FileNotFoundException" />
               <option value="System.Security.Cryptography.CryptographicException" />
+              <option value="System.Data.SqlClient.SqlException" />
+              <option value="System.UriFormatException" />
             </list>
           </option>
         </configuration>
