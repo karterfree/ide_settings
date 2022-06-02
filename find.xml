@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'WorkSalesBase.UnitTests'" />
-    <option name="defaultScopeName" value="Project 'WorkSalesBase.UnitTests'" />
-    <option name="SEARCH_SCOPE" value="Project 'WorkSalesBase.UnitTests'" />
+    <option name="customScope" value="Project 'Terrasoft.Configuration.Dev'" />
+    <option name="defaultScopeName" value="Project 'Terrasoft.Configuration.Dev'" />
+    <option name="SEARCH_SCOPE" value="Project 'Terrasoft.Configuration.Dev'" />
   </component>
 </application>
