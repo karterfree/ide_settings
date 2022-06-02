@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'WorkDealProfile.UnitTests'" />
-    <option name="defaultScopeName" value="Project 'WorkDealProfile.UnitTests'" />
-    <option name="SEARCH_SCOPE" value="Project 'WorkDealProfile.UnitTests'" />
+    <option name="customScope" value="Project 'WorkBonuses.UnitTests'" />
+    <option name="defaultScopeName" value="Project 'WorkBonuses.UnitTests'" />
+    <option name="SEARCH_SCOPE" value="Project 'WorkBonuses.UnitTests'" />
   </component>
 </application>
