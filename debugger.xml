@@ -95,6 +95,8 @@
               <option value="System.Security.Cryptography.CryptographicException" />
               <option value="System.Data.SqlClient.SqlException" />
               <option value="System.UriFormatException" />
+              <option value="Terrasoft.Core.Entities.RequiredColumnsEmptyValuesException" />
+              <option value="System.AggregateException" />
             </list>
           </option>
         </configuration>
